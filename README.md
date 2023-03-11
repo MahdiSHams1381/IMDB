@@ -1,7 +1,7 @@
 <div dir="rtl" align='right'>
 این یک پروژه شبیه سازی طراحی سایت imdb می باشد 
 تکنولوژی های مور استفاده
-c#<br>
+<br>c#<br>
 asp.net<br>
 sql server<br>
 html<br>
